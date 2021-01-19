@@ -61,6 +61,7 @@ public class Casilla {
         if(valor==13){return 'd';}
         if(valor==14){return 'e';}
         if(valor==15){return 'f';}
+	if(valor==15){return 'p';}
         return '.';
     }
   
