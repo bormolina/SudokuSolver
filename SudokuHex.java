@@ -6,6 +6,7 @@
 /**
  * @class SudokuHex
  * @brief Representación del sudoku que se quiere resolver
+ * Esto es un comentario sobre el archivo java
  */
 public class SudokuHex {
     //Matriz de casilla
