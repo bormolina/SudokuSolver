@@ -1,5 +1,5 @@
 /**
- * @author Borja Molina Zea
+ * @author Raúl Lozano García
  * @version 1.0
  */
 
@@ -29,7 +29,7 @@ public class Casilla {
     
     /**
      * @fn tamPosibles
-     * @return N�mero de posible valores que una casilla puede tomar.
+     * @return Número de posible valores que una casilla puede tomar.
      */
     public int numPosibles(){
         int tam = 0;
