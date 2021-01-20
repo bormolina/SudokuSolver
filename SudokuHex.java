@@ -59,7 +59,7 @@ public class SudokuHex {
             this.fin = true;
             return;
         }
-      
+      	System.out.println("Josemi was here");
         for (int i=0; i<16; i++){
             //Una vez elegida la casilla probamos con cada uno de su valores
             //posibles
