@@ -8,6 +8,11 @@
  * @brief Representación del sudoku que se quiere resolver
  */
 public class SudokuHex {
+    
+    
+    //Martin
+    
+    
     //Matriz de casilla
     Casilla [][] matriz = new Casilla[16][16];
     //Indica si el sudoku ha sido resuelto o no.
