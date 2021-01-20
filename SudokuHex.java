@@ -12,7 +12,7 @@ public class SudokuHex {
     Casilla [][] matriz = new Casilla[16][16];
     //Indica si el sudoku ha sido resuelto o no.
     public boolean fin = false;
-    
+    //Hola :)
     /**
      * @fn SudokuHex
      * @brief Constructor de la clase SudokuHex
