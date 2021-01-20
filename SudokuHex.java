@@ -32,10 +32,7 @@ public class SudokuHex {
                 i++;
             }                                       
         }
-        //Con los valores de las casilla, realizamos la primera actualización
-        //Cada una de las casilla vacias tendrán todos los valores posibles
-        //con los que que puede ser rellenada
-        this.actualizarTodo();
+        no se que poner para hacer el pull request ....
         
     }
 
