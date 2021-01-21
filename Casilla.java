@@ -29,7 +29,7 @@ public class Casilla {
     
     /**
      * @fn tamPosibles
-     * @return Número de posible valores que una casilla puede tomar.
+     * @return NÃºmero de posible valores que una casilla puede tomar.
      */
     public int numPosibles(){
         int tam = 0;
@@ -45,7 +45,7 @@ public class Casilla {
      * @return valor char del entero
      */
     public static char toChar(int valor){
-        if(valor==0){return '0';}
+        if(valor==0){return '10';}
         if(valor==1){return '1';}
         if(valor==2){return '2';}
         if(valor==3){return '3';}
