@@ -10,6 +10,8 @@
 public class SudokuHex {
     //Matriz de casilla
     Casilla [][] matriz = new Casilla[16][16];
+    //Aportacion al proyecto
+    int emi=0;
     //Indica si el sudoku ha sido resuelto o no.
     public boolean fin = false;
     
