@@ -29,10 +29,11 @@ public class Casilla {
     
     /**
      * @fn tamPosibles
-     * @return Número de posible valores que una casilla puede tomar.
+     * @return NÃºmero de posible valores que una casilla puede tomar.
      */
     public int numPosibles(){
-        int tam = 0;
+        int tam ;
+        tam=0;
         for (int i=0; i<16; i++){
             if (this.posibles[i]==true){tam++;}
         }
