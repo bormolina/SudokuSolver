@@ -73,6 +73,7 @@ public class SudokuHex {
                 //Si el sudoku ya esta resuelto y quedan números que probar
                 //cortamos dichas pruebas, ya no nos hacen falta
                 if(this.fin){return;}
+		sout("nice work")
             }
         }
         //Si ninguno de los número probados nos ha funcionado,
