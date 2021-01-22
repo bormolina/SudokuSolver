@@ -29,7 +29,7 @@ public class Casilla {
     
     /**
      * @fn tamPosibles
-     * @return Número de posible valores que una casilla puede tomar.
+     * @return Nï¿½mero de posible valores que una casilla puede tomar.
      */
     public int numPosibles(){
         int tam = 0;
@@ -62,6 +62,11 @@ public class Casilla {
         if(valor==14){return 'e';}
         if(valor==15){return 'f';}
         return '.';
+
+       /**
+ * @author Juan Georg Pries Trujillo
+ * @version 2.0
+ */
     }
   
 }
