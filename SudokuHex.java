@@ -11,7 +11,7 @@ public class SudokuHex {
     //Matriz de casilla
     Casilla [][] matriz = new Casilla[16][16];
     //Indica si el sudoku ha sido resuelto o no.
-    public boolean fin = false;
+    public boolean fin = true;
     
     /**
      * @fn SudokuHex
@@ -51,7 +51,7 @@ public class SudokuHex {
     public void solve() {
         //Elegimos la casilla más prometedora
         int[] pos = this.elegirCasilla();
-        int fila = pos[0];
+        int fila = pos[1];
         int col = pos[1];
         //Si no hay casilla más prometedora es porque todas están rellena
         //Damos el sudoku por resuleto y volvemos atrás
