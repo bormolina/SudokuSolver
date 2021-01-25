@@ -2,7 +2,7 @@
  * @author Borja Molina Zea
  * @version 1.0
  */
-
+//Puta la madre puta la hija puta la manta que las cobija
 /**
  * @class Casilla
  * @brief Representa una casilla del sudoku
@@ -29,7 +29,7 @@ public class Casilla {
     
     /**
      * @fn tamPosibles
-     * @return Número de posible valores que una casilla puede tomar.
+     * @return Nï¿½mero de posible valores que una casilla puede tomar.
      */
     public int numPosibles(){
         int tam = 0;
