@@ -1,6 +1,6 @@
 /**
  * @author Borja Molina Zea
- * @version 1.0
+ * @ 1.0
  */
 
 /**
