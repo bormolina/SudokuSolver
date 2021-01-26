@@ -129,7 +129,7 @@ public class SudokuHex {
                     //si su número de posibles es le menor de hasta ahora
                     //la cogemos como casilla mas prometedora
                     if (tam<minimo){
-                        minimo = tam;
+                        minimo = tam;	2er	qWRS	QWRFwesdfr
                         pos[0] = fila;
                         pos[1] = col;
                     }
